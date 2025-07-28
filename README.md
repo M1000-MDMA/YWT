@@ -1,9 +1,9 @@
-# YWT - Yungz's MENU of Tweakz 🛠️
+# YWT - Yungz's Win Toolbox 🛠️
 
-Welcome to **YWT (Yungz's MENU of Tweakz)** — a powerful and easy-to-use Windows tweaks and utilities script designed to enhance your system, improve performance, and automate common tasks.
+Welcome to **YWT (Yungz's Windows Toolbox)** — a powerful and easy-to-use Windows tweaks and utilities script designed to enhance your system, improve performance, and automate common tasks.
 
 > ⚠️ **WARNING**: This script can make system-level changes. Use at your own risk. Always create a backup or restore point before proceeding.
-
+   ADITIONALL:  THE PROGRAMS (MAS/WINUTIL) ARE __NOT__ MINE AND I DO NOT TAKE  ANY CLAIM OVER THEM
 ---
 
 ## 🧰 Features
